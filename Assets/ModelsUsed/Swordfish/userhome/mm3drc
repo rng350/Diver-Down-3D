@@ -1,0 +1,28 @@
+{
+   "mru" => (
+         "E:/Program Files/rips/dk64/enguarde/engaurde.obj",
+         "E:\Program Files\rips\dk64\enguarde\engaurde.obj"
+      ),
+   "ui_3dgrid_count" => "6",
+   "ui_3dgrid_inc" => "4.000000",
+   "ui_3dgrid_xy" => "0",
+   "ui_3dgrid_xz" => "1",
+   "ui_3dgrid_yz" => "0",
+   "ui_draw_joints" => "2",
+   "ui_grid_decimal" => "",
+   "ui_grid_inc" => "4.000000",
+   "ui_render_3d_selections" => "",
+   "ui_render_backface_cull" => "",
+   "ui_render_bad_textures" => "",
+   "ui_render_text" => "0",
+   "ui_texcoord_lines_color" => "16777215",
+   "ui_texcoord_scale_aspect" => "0",
+   "ui_texcoord_scale_center" => "1",
+   "ui_texcoord_selection_color" => "16711680",
+   "ui_texture_dir" => "E:/Program Files/rips/dk64/enguarde",
+   "ui_texwin_preview_index" => "0",
+   "ui_viewport_count" => "4",
+   "ui_viewport_tall" => "0",
+   "ui_viewwin_height" => "700",
+   "ui_viewwin_width" => "900"
+}

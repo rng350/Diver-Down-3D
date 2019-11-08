@@ -1,0 +1,11 @@
+# Directories
+**/.vs
+**/.idea
+**/Library
+**/Logs
+**/obj
+**/Packages
+**/Temp
+**/Build
+**/Assembly-CSharp.csproj
+**/Diver Down 3D.sln
